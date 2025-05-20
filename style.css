@@ -627,6 +627,11 @@ nav a:hover {
   font-size: 1.1rem;
 }
 
+.used-car-btn {
+  border: 2px solid #F7CB5F;
+  color: #2D3748;
+}
+
 /* 頁尾樣式 */
 .footer {
   background-color: var(--tasle-darkBlue);
@@ -654,7 +659,11 @@ nav a:hover {
 }
 
 .logo span {
-  color: white;
+  color: #F7CB5F;
+}
+
+.hero-content h2 {
+  color: #F7CB5F;
 }
 
 .footer-description {
